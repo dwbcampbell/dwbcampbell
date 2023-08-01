@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Douglas Campbell
-- 👀 I’m interested in logic, philosophy, type theory.
-- 🌱 I’m currently learning Lean
-- 💞️ I’m looking to collaborate on anything other than Qt/Qml which is my day job.
+- 👀 I’m interested in logic, philosophy, machine learning.
+- 🌱 I’m currently learning how to write VS Code Extensions in Typescript
 - 📫 How to reach me dwbcampbell@gmail.com
 
 <!---
